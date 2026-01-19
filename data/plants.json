@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "name": "Lavender",
+    "category": "Healing",
+    "description": "Lavender is a calming purple flower used for peace, love, and restful sleep. Medicinally, it reduces anxiety and mild pain.",
+    "warning": "Generally safe. Avoid concentrated oil on broken skin. May cause drowsiness.",
+    "image": "/lavender.webp"
+  },
+  {
+    "id": 2,
+    "name": "Chamomile",
+    "category": "Healing",
+    "description": "Chamomile promotes relaxation, digestion, and sleep. Used magically for harmony and protection.",
+    "warning": "Avoid if allergic to ragweed. Mild sedative effects.",
+    "image": "/chamomile.webp"
+  },
+  {
+    "id": 3,
+    "name": "Calendula",
+    "category": "Healing",
+    "description": "Calendula heals skin, reduces inflammation, and promotes confidence and protection.",
+    "warning": "Topical use preferred. Avoid internal use during pregnancy.",
+    "image": "/calendula.webp"
+  },
+  {
+    "id": 4,
+    "name": "Comfrey",
+    "category": "Healing",
+    "description": "Comfrey speeds wound healing and tissue repair. Used magically for restoration.",
+    "warning": "DO NOT ingest. Can cause serious liver damage.",
+    "image": "/comfrey.webp"
+  },
+
+  {
+    "id": 5,
+    "name": "Sage",
+    "category": "Protection",
+    "description": "Sage clears negativity, purifies spaces, and improves clarity.",
+    "warning": "Avoid excessive internal use. Can trigger seizures in large doses.",
+    "image": "/sage.webp"
+  },
+  {
+    "id": 6,
+    "name": "Rue",
+    "category": "Protection",
+    "description": "Rue banishes negativity and strengthens intuition.",
+    "warning": "TOXIC if ingested. Can cause skin irritation and miscarriage.",
+    "image": "/rue.webp"
+  },
+  {
+    "id": 7,
+    "name": "Witch Hazel",
+    "category": "Protection",
+    "description": "Witch Hazel purifies energy and heals skin irritation.",
+    "warning": "External use recommended. Internal use can irritate stomach.",
+    "image": "/witch.webp"
+  },
+  {
+    "id": 8,
+    "name": "Angelica",
+    "category": "Protection",
+    "description": "Angelica wards off evil and supports digestion and immunity.",
+    "warning": "Avoid during pregnancy. Can increase sun sensitivity.",
+    "image": "/angelica.webp"
+  },
+
+  {
+    "id": 9,
+    "name": "Mugwort",
+    "category": "Dreams & Divination",
+    "description": "Mugwort enhances dreams, visions, and spiritual protection.",
+    "warning": "Avoid during pregnancy. Can cause allergic reactions.",
+    "image": "/mugwort.webp"
+  },
+  {
+    "id": 10,
+    "name": "Yarrow",
+    "category": "Dreams & Divination",
+    "description": "Yarrow boosts psychic awareness and heals wounds.",
+    "warning": "Avoid during pregnancy. May cause skin sensitivity.",
+    "image": "/yarrow.webp"
+  },
+  {
+    "id": 11,
+    "name": "Vervain",
+    "category": "Dreams & Divination",
+    "description": "Vervain enhances divination, dreams, and relaxation.",
+    "warning": "Avoid long-term use. Can lower blood pressure.",
+    "image": "/vervain.webp"
+  },
+  {
+    "id": 12,
+    "name": "Moonwort",
+    "category": "Dreams & Divination",
+    "description": "Moonwort aids insight, spiritual travel, and protection.",
+    "warning": "Rare plant. Not for casual medicinal use.",
+    "image": "/moonwort.webp"
+  },
+
+  {
+    "id": 13,
+    "name": "Rosemary",
+    "category": "Vitality & Strength",
+    "description": "Rosemary boosts memory, clarity, and protection.",
+    "warning": "Avoid high doses. Can raise blood pressure.",
+    "image": "/rosemary.webp"
+  },
+  {
+    "id": 14,
+    "name": "Ginseng",
+    "category": "Vitality & Strength",
+    "description": "Ginseng enhances stamina, immunity, and mental focus.",
+    "warning": "Avoid if hypertensive. Can cause insomnia.",
+    "image": "/ginseng.webp"
+  },
+  {
+    "id": 15,
+    "name": "Ashwagandha",
+    "category": "Vitality & Strength",
+    "description": "Ashwagandha reduces stress and boosts resilience.",
+    "warning": "Avoid with thyroid conditions. Can cause drowsiness.",
+    "image": "/ashwagandha.webp"
+  },
+  {
+    "id": 16,
+    "name": "Peppermint",
+    "category": "Vitality & Strength",
+    "description": "Peppermint energizes, aids digestion, and clears the mind.",
+    "warning": "Avoid excessive use. Can trigger acid reflux.",
+    "image": "/peppermint.webp"
+  },
+
+  {
+    "id": 17,
+    "name": "Hawthorn",
+    "category": "Love & Harmony",
+    "description": "Hawthorn is a guardian tree linked to the heart, courage, and emotional healing. Magically, it protects sacred spaces and strengthens relationships. Medicinally, it supports cardiovascular health and eases anxiety.",
+    "warning": "Avoid combining with heart medications. Not for long-term unsupervised use.",
+    "image": "/hawthorn.webp"
+  },
+  {
+    "id": 18,
+    "name": "Passionflower",
+    "category": "Love & Harmony",
+    "description": "Passionflower promotes peace, emotional stability, and spiritual calm. Magically, it supports meditation, dreamwork, and harmonious relationships. Medicinally, it reduces anxiety, relieves insomnia, and supports the nervous system.",
+    "warning": "Can cause drowsiness. Avoid combining with sedatives or antidepressants.",
+    "image": "/passionflower.webp"
+  },
+  {
+    "id": 19,
+    "name": "Basil",
+    "category": "Love & Harmony",
+    "description": "Basil attracts prosperity and love and aids digestion.",
+    "warning": "Avoid large medicinal doses. Blood-thinning effects.",
+    "image": "/basil.webp"
+  },
+  {
+    "id": 20,
+    "name": "Meadowsweet",
+    "category": "Love & Harmony",
+    "description": "Meadowsweet brings joy and relieves pain and fevers.",
+    "warning": "Avoid if allergic to aspirin. Blood-thinning effects.",
+    "image": "/meadowsweet.webp"
+  }
+]
