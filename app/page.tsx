@@ -1,105 +1,133 @@
 import Image from "next/image";
-import SigilHero from "@/components/SigilHero";
+import herbs from "@/data/herbs.json";
+import HerbGrid from "@/components/HerbGrid";
 
 export default function Home() {
   return (
-    <div className="relative min-h-screen w-full">
-      {/* Page content */}
+    <div className="relative">
       <main className="">
-        <div className="relative min-h-screen overflow-hidden bg-linear-to-b   from-[#050f0e] via-[#0a1f1c] to-black">
+        <div className="relative min-h-screen overflow-hidden bg-linear-to-b from-[#050f0e] via-[#0a1f1c] to-black/20">
           {/* low mist */}
           <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(90,180,150,0.14),transparent_65%)]" />
 
           <main
             className="
-      relative z-10 mx-auto max-w-7xl
-      px-4 sm:px-6 md:px-8
-      pt-28 sm:pt-32 md:pt-40
-      pb-20 sm:pb-24
-      grid gap-16
-      md:grid-cols-2 md:gap-20
-      items-center
-    "
+              relative z-10 mx-auto max-w-7xl
+              px-4 sm:px-6 md:px-8
+              pt-28 sm:pt-32 md:pt-40
+              pb-20 sm:pb-24
+              flex flex-col md:flex-row
+              items-center md:items-start
+              gap-16 md:gap-20
+            "
           >
-            {/* Text */}
-            <div className="space-y-6 sm:space-y-8 text-center md:text-left">
+            <div className="space-y-6 sm:space-y-8 text-start md:text-left">
               <h1 className="font-cinzel leading-tight">
                 <span className="block text-teal-200/70 text-3xl sm:text-4xl md:text-5xl">
                   The
                 </span>
-                <span
-                  className="
-            block text-[#c8efe3]
-            text-4xl sm:text-5xl md:text-6xl lg:text-7xl
-            drop-shadow-[0_0_25px_rgba(120,220,190,0.45)]
-          "
-                >
-                  Verdant Sigil
+                <span className="block text-[#c8efe3] text-4xl sm:text-5xl md:text-6xl lg:text-7xl drop-shadow-[0_0_25px_rgba(120,220,190,0.45)]">
+                  Verdant Grimoire
                 </span>
               </h1>
 
-              <p
-                className="
-          font-cormorant text-teal-100/80
-          text-lg sm:text-xl md:text-2xl
-          max-w-xl mx-auto md:mx-0
-        "
-              >
-                Knowledge bound in circles.
+              <p className="font-cormorant text-teal-100/80 text-lg sm:text-xl md:text-2xl max-w-xl mx-auto md:mx-0">
+                A tome of ancient herbs and whispered incantations, binding
+                knowledge, nature, and magic into a living grimoire that grows
+                with every secret you unveil.
               </p>
 
-              <a
-                href="#plants"
-                className="group inline-flex items-center justify-center md:justify-start gap-4 mt-4"
-              >
-                <span className="font-cinzel tracking-widest text-xs sm:text-sm text-teal-200 group-hover:text-teal-100 transition">
-                  ACTIVATE SEAL
-                </span>
-                <span className="h-px w-10 sm:w-12 bg-teal-300/40 group-hover:w-16 transition-all duration-300" />
-              </a>
+              <p className="font-cormorant text-teal-200/60 italic text-base sm:text-lg md:text-xl max-w-lg mx-auto md:mx-0">
+                Let the emerald tendrils of wisdom entwine you, and let every
+                leaf illuminate forgotten paths.
+              </p>
             </div>
 
-            {/* Sigil */}
-            <div
-              className="
-        relative mx-auto
-        h-64 w-64
-        sm:h-72 sm:w-72
-        md:h-104 md:w-104
-      "
-            >
-              <div
-                className="
-          absolute inset-0 rounded-full border border-teal-300/20
-          shadow-[inset_0_0_40px_rgba(120,220,190,0.25),0_0_60px_rgba(20,120,110,0.35)]
-        "
+            <div className="shrink-0 justify-center px-3 text-center">
+              <Image
+                src="/angelica.webp"
+                alt="Angelica"
+                width={300}
+                height={300}
+                priority
+                className="rounded-lg w-full max-w-xs sm:max-w-sm md:max-w-md mx-auto"
               />
-
-              {/* inner rings */}
-              <div className="absolute inset-8 sm:inset-10 rounded-full border border-teal-300/30" />
-              <div className="absolute inset-14 sm:inset-20 rounded-full border border-teal-300/20" />
-
-              {/* glyph nodes */}
-              {[0, 60, 120, 180, 240, 300].map((deg, i) => (
-                <span
-                  key={i}
-                  className="
-            absolute top-1/2 left-1/2
-            h-2.5 w-2.5 sm:h-3 sm:w-3
-            rounded-full bg-teal-200
-            shadow-[0_0_12px_rgba(120,220,190,0.9)]
-          "
-                  style={{
-                    transform: `
-              rotate(${deg}deg)
-              translate(7.5rem)
-              rotate(-${deg}deg)
-            `,
-                  }}
-                />
-              ))}
+              <p className="mt-3 left-15 relative font-cormorant text-gray-400 italic text-sm sm:text-base md:text-lg skew-x-6">
+                Angelica
+              </p>
             </div>
           </main>
+
+          <section id="origins">
+            <div className="max-w-7xl py-40 px-4 sm:px-15 lg:px-38 text-start items-start space-y-8">
+              <h2 className="font-cinzel text-4xl sm:text-5xl md:text-6xl text-teal-200/80 drop-shadow-[0_0_15px_rgba(120,220,190,0.4)]">
+                Origins
+              </h2>
+
+              <p className="font-cormorant text-teal-100/80 text-lg sm:text-xl md:text-2xl leading-relaxed">
+                Within the depths of an ancient forest, long before names were
+                written in any tongue, the Verdant Grimoire was born. Its pages,
+                lined with verdant inks and enchanted herbs, carry the whispers
+                of druidic wisdom and forgotten spells.
+              </p>
+
+              <p className="font-cormorant text-teal-200/60 italic text-base sm:text-lg md:text-xl leading-relaxed max-w-3xl">
+                Each leaf pressed and each incantation inscribed binds nature
+                and magic together, waiting for those who dare to read and
+                unlock its secrets.
+              </p>
+            </div>
+          </section>
+
+          <HerbGrid herbs={herbs} />
+
+          <section className="relative w-full py-32 overflow-hidden ">
+            {/* Arcane symbols along the edges */}
+            <div className="absolute inset-0 pointer-events-none">
+              {[...Array(6)].map((_, i) => (
+                <div
+                  key={i}
+                  className="absolute text-teal-800/20 text-4xl md:text-6xl select-none"
+                  style={{
+                    top: `${i * 15}%`,
+                    left: `${i * 12}%`,
+                    transform: `rotate(${i * 25}deg)`,
+                  }}
+                >
+                  ✦
+                </div>
+              ))}
+              {[...Array(6)].map((_, i) => (
+                <div
+                  key={i + 10}
+                  className="absolute text-teal-900/10 text-5xl md:text-7xl select-none"
+                  style={{
+                    bottom: `${i * 12}%`,
+                    right: `${i * 10}%`,
+                    transform: `rotate(${i * -20}deg)`,
+                  }}
+                >
+                  ❦
+                </div>
+              ))}
+            </div>
+
+            {/* Centered quote / epilogue */}
+            <div className="relative z-10 text-center px-6 max-w-3xl mx-auto space-y-6">
+              <h2 className="font-cinzel text-3xl sm:text-4xl md:text-5xl text-teal-200/80 drop-shadow-[0_0_20px_rgba(120,220,190,0.35)]">
+                The Grimoire Concludes
+              </h2>
+              <p className="font-cormorant italic text-teal-100/70 text-lg sm:text-xl leading-relaxed">
+                The pages of this tome close for now, but the wisdom of leaves
+                and whispers endures. Guard it well, and let every herb, every
+                incantation, and every secret continue to guide those who seek
+                the green paths.
+              </p>
+              <p className="font-cormorant text-teal-200/60 text-sm sm:text-base">
+                — The Verdant Grimoire
+              </p>
+            </div>
+          </section>
         </div>
       </main>
     </div>
