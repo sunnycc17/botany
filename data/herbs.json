@@ -4,7 +4,7 @@
     "slug": "lavender",
     "name": "Lavender",
     "tag": "Healing",
-    "description": "Lavender is a calming purple flower used for peace, love, and restful sleep. Medicinally, it reduces anxiety and mild pain.",
+    "description": "Lavender is a gentle and fragrant herb, cherished for its ability to soothe the mind, calm the spirit, and restore a sense of balance. Its soft purple blooms release a serene aroma that eases tension, invites restful sleep, and encourages emotional clarity. Traditionally, lavender has been employed in countless rituals and remedies, from calming teas to fragrant sachets tucked beneath pillows, where it works subtly but persistently to nurture calm and resilience in both body and soul. In magical practice, lavender is believed to attract love, harmony, and peace, while also serving as a guardian against lingering negativity and ill fortune. Beyond its ordinary virtues, lavender is said to strengthen intuition, open the heart to compassion, and awaken hidden energies within those who approach it with reverence. Healers, dreamers, and scholars alike have carried it as a charm, infused it in oils, or planted it in sacred spaces, trusting in its quiet yet steadfast influence.",
     "warning": "Generally safe. Avoid concentrated oil on broken skin. May cause drowsiness.",
     "image": "/lavender.webp"
   },
@@ -13,8 +13,8 @@
     "slug": "chamomile",
     "name": "Chamomile",
     "tag": "Healing",
-    "description": "Chamomile is a gentle yet deeply restorative herb long associated with calm, balance, and quiet resilience. Its small, sun-like blossoms have been used for centuries to soothe the nervous system, ease digestion, and invite restful sleep, making it a staple in both household medicine and monastic gardens. Beyond its physical virtues, chamomile is revered in folk magic as a harmonizer—used to soften conflict, restore emotional equilibrium, and protect spaces from lingering unease. Taken as a tea or carried as a charm, it is believed to draw peace where there is tension and clarity where the mind is overburdened, working subtly but persistently, like a slow breath that steadies the heart.",
-    "warning": "Avoid if allergic to ragweed. Mild sedative effects.",
+    "description": "Chamomile is a gentle and golden-hued herb, revered for its calming presence, digestive support, and ability to restore harmony to body and mind. Its delicate daisy-like flowers exude a soft, apple-sweet fragrance that soothes irritation, eases tension, and invites restful slumber. Traditionally, chamomile has been used in countless remedies and rituals, from steaming teas that comfort the stomach and nerves to fragrant infusions placed near the bedside, working quietly to nurture wellness and emotional balance. In magical practice, chamomile is believed to attract luck, peace, and contentment, while also guarding against misfortune and restless energies. Beyond its common uses, chamomile is said to open the heart to patience, strengthen clarity of thought, and awaken latent potential in those who honor its subtle influence. Healers, dreamers, and caretakers have carried it as a charm, brewed it in oils and tinctures, or scattered it in sacred spaces, relying on its steadfast, gentle energy to cultivate serenity, protection, and inner harmony.",
+    "warning": "Generally safe. Avoid concentrated oil on broken skin. May cause allergic reactions in those sensitive to ragweed, daisies, or chrysanthemums. May increase drowsiness.",
     "image": "/chamomile.webp"
   },
   {
@@ -22,8 +22,8 @@
     "slug": "calendula",
     "name": "Calendula",
     "tag": "Healing",
-    "description": "Calendula heals skin, reduces inflammation, and promotes confidence and protection.",
-    "warning": "Topical use preferred. Avoid internal use during pregnancy.",
+    "description": "Calendula is a radiant and nurturing herb, celebrated for its ability to heal, protect, and bring vitality to both body and spirit. Its bright, golden-orange blossoms exude a gentle, soothing fragrance that comforts the skin, uplifts the mind, and restores a sense of balance. Traditionally, calendula has been employed in countless remedies and rituals, from salves and infused oils that promote skin health to ceremonial uses in sacred spaces, where it works persistently to nurture resilience and renewal. In magical practice, calendula is believed to attract warmth, prosperity, and protection, while dispelling negativity and stagnation. Beyond its ordinary virtues, calendula is said to open the heart to compassion, strengthen courage, and awaken healing energies in those who honor it with care. Healers, artisans, and caretakers have carried it as a charm, infused it in oils, or scattered its petals in ritual spaces, trusting in its quiet yet powerful influence to foster vitality, clarity, and harmonious energy.",
+    "warning": "Generally safe. Avoid concentrated oil on broken skin. May cause allergic reactions in those sensitive to daisies or chrysanthemums.",
     "image": "/calendula.webp"
   },
   {
@@ -31,17 +31,16 @@
     "slug": "comfrey",
     "name": "Comfrey",
     "tag": "Healing",
-    "description": "Comfrey speeds wound healing and tissue repair. Used magically for restoration.",
+    "description": "Comfrey is a robust and earthy herb, treasured for its restorative and protective properties, particularly in supporting skin, bones, and overall vitality. Its broad, green leaves and modest bell-shaped flowers hold a subtle, grounding aroma that encourages patience, resilience, and inner stability. Traditionally, comfrey has been applied in poultices, salves, and infusions, where it works steadily to promote healing, reduce inflammation, and restore balance to the body. In magical practice, comfrey is believed to attract strength, protection, and resilience, while guarding against harm and lingering negativity. Beyond its practical uses, comfrey is said to deepen connection with the body, awaken regenerative energies, and strengthen persistence in those who approach it with respect. Healers, gardeners, and guardians have carried it as a charm, infused it in oils, or planted it in sacred spaces, trusting in its enduring and restorative influence to nurture vitality, fortitude, and harmonious energy.",
     "warning": "DO NOT ingest. Can cause serious liver damage.",
     "image": "/comfrey.webp"
   },
-
   {
     "id": 5,
     "slug": "sage",
     "name": "Sage",
     "tag": "Protection",
-    "description": "Sage clears negativity, purifies spaces, and improves clarity.",
+    "description": "Sage is a resilient and aromatic herb, revered for its cleansing, protective, and clarifying qualities. Its silvery-green leaves release a sharp, earthy fragrance that sharpens the mind, lifts the spirit, and restores a sense of focus and balance. Traditionally, sage has been employed in countless remedies and rituals, from teas and tinctures that support digestion and immunity to smudging practices that purify spaces and clear lingering negativity. In magical practice, sage is believed to attract wisdom, clarity, and protection, while dispelling harmful energies and fostering spiritual insight. Beyond its ordinary virtues, sage is said to enhance discernment, strengthen intuition, and awaken latent mental and spiritual faculties in those who honor it with intention. Healers, seekers, and scholars have carried it as a charm, infused it in oils, or burned it in sacred spaces, trusting in its enduring ability to cleanse, protect, and elevate both mind and spirit.",
     "warning": "Avoid excessive internal use. Can trigger seizures in large doses.",
     "image": "/sage.webp"
   },
@@ -50,7 +49,7 @@
     "slug": "rue",
     "name": "Rue",
     "tag": "Protection",
-    "description": "Rue banishes negativity and strengthens intuition.",
+    "description": "Rue is a potent and protective herb, valued for its ability to ward off negativity, sharpen the mind, and strengthen resolve. Its blue-green, aromatic leaves carry a strong, bitter fragrance that commands respect and encourages caution, clarity, and discipline. Traditionally, rue has been used in tinctures, protective charms, and ritual practices, working to shield both body and spirit from harm. In magical practice, rue is believed to repel ill fortune, banish psychic attacks, and attract courage, while fostering discernment and resilience. Beyond its ordinary virtues, rue is said to awaken inner strength, enhance intuition, and fortify the will of those who approach it with reverence. Healers, magicians, and guardians have carried it as a charm, infused it in oils, or sprinkled it in sacred spaces, trusting in its firm yet subtle power to protect and empower.",
     "warning": "TOXIC if ingested. Can cause skin irritation and miscarriage.",
     "image": "/rue.webp"
   },
@@ -59,26 +58,25 @@
     "slug": "witch-hazel",
     "name": "Witch Hazel",
     "tag": "Protection",
-    "description": "Witch Hazel purifies energy and heals skin irritation.",
+    "description": "Witch hazel is a versatile and clarifying shrub, esteemed for its astringent, soothing, and protective properties. Its slender branches and small, fragrant flowers release a crisp, herbal aroma that refreshes the senses, calms irritation, and restores balance to both skin and spirit. Traditionally, witch hazel has been applied in tonics, compresses, and ritual waters, gently promoting healing, purification, and renewal. In magical practice, witch hazel is believed to attract protection, clarity, and insight, while dispelling negative energies and stagnation. Beyond its ordinary virtues, witch hazel is said to strengthen discernment, sharpen intuition, and awaken subtle energies in those who honor it. Healers, dreamers, and caretakers have carried it as a charm, infused it in oils, or placed it in sacred spaces, trusting in its steady, cleansing influence.",
     "warning": "External use recommended. Internal use can irritate stomach.",
-    "image": "/witch.webp"
+    "image": "/witch-hazel.webp"
   },
   {
     "id": 8,
     "slug": "angelica",
     "name": "Angelica",
     "tag": "Protection",
-    "description": "Angelica wards off evil and supports digestion and immunity.",
+    "description": "Angelica is a towering and sacred herb, revered for its protective, grounding, and harmonizing qualities. Its large, umbrella-like clusters of pale flowers and aromatic stems release a fresh, slightly spicy fragrance that fortifies the spirit, centers the mind, and restores a sense of equilibrium. Traditionally, angelica has been used in teas, tinctures, and ritual practices, promoting health, protection, and spiritual attunement. In magical practice, angelica is believed to attract luck, ward off evil, and strengthen spiritual awareness, while fostering courage and clarity in those who work with it. Beyond its ordinary virtues, angelica is said to awaken latent energies, enhance intuition, and open the heart to guidance from higher forces. Healers, mystics, and protectors have carried it as a charm, infused it in oils, or planted it in sacred spaces, relying on its enduring, protective, and harmonizing influence.",
     "warning": "Avoid during pregnancy. Can increase sun sensitivity.",
     "image": "/angelica.webp"
   },
-
   {
     "id": 9,
     "slug": "mugwort",
     "name": "Mugwort",
     "tag": "Dreams & Divination",
-    "description": "Mugwort enhances dreams, visions, and spiritual protection.",
+    "description": "Mugwort is a mysterious and aromatic herb, celebrated for its ability to enhance dreams, intuition, and spiritual exploration. Its silvery-green, feathery leaves release a warm, herbaceous fragrance that stimulates the mind, opens the imagination, and encourages visionary thinking. Traditionally, mugwort has been employed in teas, dream pillows, and ritual smudges, where it works subtly to guide the spirit, clarify intention, and foster self-awareness. In magical practice, mugwort is believed to protect travelers, enhance psychic abilities, and open gateways to hidden knowledge, while dispelling stagnation and fear. Beyond its ordinary virtues, mugwort is said to awaken inner vision, strengthen intuition, and attune the user to unseen energies. Healers, dreamers, and diviners have carried it as a charm, infused it in oils, or burned it in sacred spaces, trusting in its quiet yet potent ability to illuminate the mind and spirit.",
     "warning": "Avoid during pregnancy. Can cause allergic reactions.",
     "image": "/mugwort.webp"
   },
@@ -87,7 +85,7 @@
     "slug": "yarrow",
     "name": "Yarrow",
     "tag": "Dreams & Divination",
-    "description": "Yarrow boosts psychic awareness and heals wounds.",
+    "description": "Yarrow is a resilient and grounding herb, revered for its ability to heal, protect, and restore balance. Its feathery, fern-like leaves and clusters of small flowers emit a crisp, slightly spicy aroma that fortifies the body, sharpens the mind, and soothes the spirit. Traditionally, yarrow has been applied in poultices, teas, and ritual practices, working to stop bleeding, ease tension, and maintain harmony. In magical practice, yarrow is believed to attract courage, clarity, and protection, while dispelling negative energies and promoting resolution of conflict. Beyond its ordinary virtues, yarrow is said to strengthen intuition, awaken endurance, and deepen connection with natural forces in those who honor it. Healers, warriors, and sages have carried it as a charm, infused it in oils, or planted it in sacred spaces, relying on its steadfast and fortifying influence to maintain vitality, clarity, and resilience.",
     "warning": "Avoid during pregnancy. May cause skin sensitivity.",
     "image": "/yarrow.webp"
   },
@@ -96,7 +94,7 @@
     "slug": "vervain",
     "name": "Vervain",
     "tag": "Dreams & Divination",
-    "description": "Vervain enhances divination, dreams, and relaxation.",
+    "description": "Vervain is a sacred and uplifting herb, cherished for its ability to inspire, protect, and elevate the spirit. Its slender, violet-tinted spikes of flowers release a delicate, sweet fragrance that invigorates the mind, encourages focus, and promotes emotional harmony. Traditionally, vervain has been used in teas, talismans, and ritual offerings, subtly enhancing devotion, purification, and spiritual insight. In magical practice, vervain is believed to attract inspiration, courage, and divine favor, while banishing negativity and fostering clarity of purpose. Beyond its ordinary virtues, vervain is said to awaken latent creativity, strengthen willpower, and open channels to higher guidance in those who honor it with intention. Healers, mystics, and visionaries have carried it as a charm, infused it in oils, or scattered it in sacred spaces, trusting in its gentle yet powerful ability to uplift, protect, and illuminate the spirit.",
     "warning": "Avoid long-term use. Can lower blood pressure.",
     "image": "/vervain.webp"
   },
@@ -105,17 +103,16 @@
     "slug": "moonwort",
     "name": "Moonwort",
     "tag": "Dreams & Divination",
-    "description": "Moonwort aids insight, spiritual travel, and protection.",
+    "description": "Moonwort is a rare and enigmatic fern, revered for its connection to lunar energy, intuition, and hidden knowledge. Its delicate, silvery-green fronds carry a subtle, earthy fragrance that invites introspection, sharpens perception, and encourages alignment with natural cycles. Traditionally, moonwort has been employed in charms, dream rituals, and protective talismans, where it works quietly to uncover hidden truths, enhance awareness, and foster spiritual insight. In magical practice, moonwort is believed to strengthen intuition, open channels to astral realms, and protect against unseen forces, while cultivating patience and clarity. Beyond its ordinary virtues, moonwort is said to awaken latent psychic faculties, guide seekers through uncertainty, and attune practitioners to the rhythms of the moon. Healers, diviners, and mystics have carried it as a charm, infused it in oils, or kept it in sacred spaces, trusting in its subtle yet potent lunar influence.",
     "warning": "Rare plant. Not for casual medicinal use.",
     "image": "/moonwort.webp"
   },
-
   {
     "id": 13,
     "slug": "rosemary",
     "name": "Rosemary",
     "tag": "Vitality & Strength",
-    "description": "Rosemary boosts memory, clarity, and protection.",
+    "description": "Rosemary is a fragrant and enduring herb, celebrated for its ability to invigorate the mind, protect the spirit, and preserve clarity. Its needle-like leaves exude a strong, resinous aroma that sharpens focus, uplifts energy, and restores balance to both thought and emotion. Traditionally, rosemary has been used in teas, infused oils, and protective rituals, where it works to promote memory, purify spaces, and sustain vitality. In magical practice, rosemary is believed to attract wisdom, courage, and fidelity, while warding off negative energies and enhancing mental acuity. Beyond its ordinary virtues, rosemary is said to strengthen intention, awaken mental clarity, and fortify spiritual resilience in those who honor it. Healers, scholars, and guardians have carried it as a charm, infused it in oils, or sprinkled it in sacred spaces, trusting in its steadfast and clarifying influence.",
     "warning": "Avoid high doses. Can raise blood pressure.",
     "image": "/rosemary.webp"
   },
@@ -124,7 +121,7 @@
     "slug": "ginseng",
     "name": "Ginseng",
     "tag": "Vitality & Strength",
-    "description": "Ginseng enhances stamina, immunity, and mental focus.",
+    "description": "Ginseng is a powerful and grounding root, esteemed for its ability to restore vitality, strengthen resilience, and harmonize body and spirit. Its thick, gnarled roots release a subtle, earthy aroma that fortifies energy, sharpens focus, and nurtures endurance. Traditionally, ginseng has been consumed in teas, tinctures, and tonics, working steadily to boost strength, reduce fatigue, and maintain balance. In magical practice, ginseng is believed to attract health, courage, and protection, while invigorating spiritual and physical energy. Beyond its ordinary virtues, ginseng is said to awaken latent potential, enhance perseverance, and fortify the life force in those who approach it with intention. Healers, warriors, and seekers have carried it as a charm, infused it in oils, or kept it in sacred spaces, trusting in its enduring and revitalizing influence.",
     "warning": "Avoid if hypertensive. Can cause insomnia.",
     "image": "/ginseng.webp"
   },
@@ -133,7 +130,7 @@
     "slug": "ashwagandha",
     "name": "Ashwagandha",
     "tag": "Vitality & Strength",
-    "description": "Ashwagandha reduces stress and boosts resilience.",
+    "description": "Ashwagandha is a resilient and grounding herb, cherished for its ability to restore balance, strengthen vitality, and calm the mind. Its earthy roots and subtle, warming aroma nurture endurance, resilience, and inner stability. Traditionally, ashwagandha has been used in teas, powders, and tinctures to support the nervous system, enhance stamina, and foster emotional equilibrium. In magical practice, ashwagandha is believed to attract strength, courage, and protection, while dispelling anxiety and lethargy. Beyond its ordinary virtues, it is said to awaken inner fortitude, deepen patience, and harmonize energies in those who honor it. Healers, warriors, and seekers have carried it as a charm, infused it in oils, or used it in sacred preparations, trusting in its steadfast and balancing influence.",
     "warning": "Avoid with thyroid conditions. Can cause drowsiness.",
     "image": "/ashwagandha.webp"
   },
@@ -142,17 +139,16 @@
     "slug": "peppermint",
     "name": "Peppermint",
     "tag": "Vitality & Strength",
-    "description": "Peppermint energizes, aids digestion, and clears the mind.",
+    "description": "Peppermint is a vibrant and refreshing herb, celebrated for its ability to invigorate the senses, stimulate clarity, and soothe tension. Its bright green leaves release a sharp, cooling aroma that awakens the mind, uplifts energy, and restores a sense of focus. Traditionally, peppermint has been employed in teas, oils, and ritual washes to calm digestion, relieve fatigue, and sharpen mental acuity. In magical practice, peppermint is believed to attract clarity, protection, and positive energy, while dispersing confusion and stagnation. Beyond its ordinary virtues, peppermint is said to awaken alertness, enhance intuition, and inspire creativity in those who approach it with intention. Healers, scholars, and dreamers have carried it as a charm, infused it in oils, or placed it in sacred spaces, trusting in its energizing and clarifying influence.",
     "warning": "Avoid excessive use. Can trigger acid reflux.",
     "image": "/peppermint.webp"
   },
-
   {
     "id": 17,
     "slug": "hawthorn",
     "name": "Hawthorn",
     "tag": "Love & Harmony",
-    "description": "Hawthorn is a guardian tree linked to the heart, courage, and emotional healing. Magically, it protects sacred spaces and strengthens relationships. Medicinally, it supports cardiovascular health and eases anxiety.",
+    "description": "Hawthorn is a sacred and protective shrub, revered for its ability to nurture the heart, strengthen courage, and promote emotional resilience. Its thorny branches and clusters of white or pink flowers exude a gentle, sweet fragrance that comforts the spirit, restores balance, and fosters compassion. Traditionally, hawthorn has been used in teas, tinctures, and charms to support the heart and encourage harmony. In magical practice, hawthorn is believed to attract love, protection, and stability, while shielding against emotional harm and negative energies. Beyond its ordinary virtues, hawthorn is said to awaken devotion, deepen empathy, and strengthen the courage to face challenges in those who honor it. Healers, lovers, and guardians have carried it as a charm, infused it in oils, or planted it in sacred spaces, trusting in its steadfast, protective, and heart-opening influence.",
     "warning": "Avoid combining with heart medications. Not for long-term unsupervised use.",
     "image": "/hawthorn.webp"
   },
@@ -161,7 +157,7 @@
     "slug": "passionflower",
     "name": "Passionflower",
     "tag": "Love & Harmony",
-    "description": "Passionflower promotes peace, emotional stability, and spiritual calm. Magically, it supports meditation, dreamwork, and harmonious relationships. Medicinally, it reduces anxiety, relieves insomnia, and supports the nervous system.",
+    "description": "Passionflower is a delicate and calming herb, prized for its ability to soothe the mind, ease anxiety, and invite restful sleep. Its intricate, star-like blossoms release a mild, floral fragrance that quiets tension, restores emotional balance, and fosters clarity. Traditionally, passionflower has been employed in teas, tinctures, and ritual preparations to calm nerves, ease stress, and encourage tranquility. In magical practice, passionflower is believed to attract harmony, peace, and emotional insight, while dispelling agitation and restless energies. Beyond its ordinary virtues, passionflower is said to awaken patience, strengthen emotional awareness, and nurture inner serenity in those who honor it. Healers, dreamers, and caretakers have carried it as a charm, infused it in oils, or planted it in sacred spaces, trusting in its gentle and balancing influence.",
     "warning": "Can cause drowsiness. Avoid combining with sedatives or antidepressants.",
     "image": "/passionflower.webp"
   },
@@ -170,7 +166,7 @@
     "slug": "basil",
     "name": "Basil",
     "tag": "Love & Harmony",
-    "description": "Basil attracts prosperity and love and aids digestion.",
+    "description": "Basil is a fragrant and protective herb, celebrated for its ability to attract prosperity, courage, and spiritual clarity. Its lush green leaves release a warm, sweet aroma that invigorates the mind, uplifts the spirit, and encourages focus and determination. Traditionally, basil has been used in culinary preparations, teas, and ritual offerings to purify spaces, promote wellbeing, and support intention. In magical practice, basil is believed to attract wealth, protect the home, and enhance mental clarity, while dispelling negativity and stagnation. Beyond its ordinary virtues, basil is said to awaken focus, strengthen determination, and inspire devotion in those who honor it. Healers, seekers, and protectors have carried it as a charm, infused it in oils, or scattered it in sacred spaces, trusting in its uplifting and protective influence.",
     "warning": "Avoid large medicinal doses. Blood-thinning effects.",
     "image": "/basil.webp"
   },
@@ -179,7 +175,7 @@
     "slug": "meadowsweet",
     "name": "Meadowsweet",
     "tag": "Love & Harmony",
-    "description": "Meadowsweet brings joy and relieves pain and fevers.",
+    "description": "Meadowsweet is a gentle and harmonious herb, cherished for its ability to soothe the spirit, ease tension, and bring balance to body and mind. Its clusters of creamy-white flowers release a sweet, almond-like fragrance that calms emotions, restores clarity, and nurtures tranquility. Traditionally, meadowsweet has been used in teas, poultices, and ritual practices to ease discomfort, promote emotional balance, and encourage harmonious energy. In magical practice, meadowsweet is believed to attract love, peace, and protection, while dispelling conflict and disharmony. Beyond its ordinary virtues, meadowsweet is said to awaken gentleness, enhance intuition, and deepen appreciation for natural cycles in those who honor it. Healers, caretakers, and dreamers have carried it as a charm, infused it in oils, or scattered it in sacred spaces, trusting in its subtle yet steady influence to nurture calm, clarity, and harmony.",
     "warning": "Avoid if allergic to aspirin. Blood-thinning effects.",
     "image": "/meadowsweet.webp"
   }
