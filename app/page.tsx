@@ -1,6 +1,7 @@
 import Image from "next/image";
 import herbs from "@/data/herbs.json";
 import HerbGrid from "@/components/HerbGrid";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -92,7 +93,7 @@ export default function Home() {
               ].map((pos, i) => (
                 <div
                   key={i}
-                  className={`absolute ${pos} text-6xl text-emerald-300/20 blur-[1px]`}
+                  className={`absolute ${pos} text-5xl text-emerald-300/20 blur-[1px]`}
                 >
                   ❧
                 </div>
@@ -110,9 +111,12 @@ export default function Home() {
                 incantation, and every secret continue to guide those who seek
                 the green paths.
               </p>
-              <p className="font-cormorant text-teal-200/60 text-sm sm:text-base">
+              <Link
+                href="https://my-portfolio-six-dun-65.vercel.app/"
+                className="font-cormorant text-teal-200/60 text-sm sm:text-base hover:text-teal-300"
+              >
                 — The Verdant Grimoire
-              </p>
+              </Link>
             </div>
           </section>
         </div>
