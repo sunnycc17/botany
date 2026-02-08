@@ -56,7 +56,7 @@ export default async function HerbPage({
         </p>
       </div>
       <Link
-        href="/"
+        href="/#the-leaves-within"
         className="font-cormorant mt-8 text-teal-300 text-lg group inline-flex items-center gap-2 hover:text-teal-200 transition"
       >
         <span className="transition-transform group-hover:translate-x-1">

@@ -11,7 +11,7 @@ type HerbPreview = {
 
 export default function HerbGrid({ herbs }: { herbs: HerbPreview[] }) {
   return (
-    <section className="mx-auto max-w-7xl px-6 py-32">
+    <section id="the-leaves-within" className="mx-auto max-w-7xl px-6 py-32">
       <h2 className="mb-12 font-cinzel text-5xl text-teal-200/80">
         The Leaves Within
       </h2>
