@@ -84,30 +84,17 @@ export default function Home() {
           <section className="relative w-full py-32 overflow-hidden ">
             {/* Arcane symbols along the edges */}
             <div className="absolute inset-0 pointer-events-none">
-              {[...Array(6)].map((_, i) => (
+              {[
+                "top-6 left-6",
+                "top-6 right-6",
+                "bottom-6 left-6",
+                "bottom-6 right-6",
+              ].map((pos, i) => (
                 <div
                   key={i}
-                  className="absolute text-teal-800/20 text-4xl md:text-6xl select-none"
-                  style={{
-                    top: `${i * 15}%`,
-                    left: `${i * 12}%`,
-                    transform: `rotate(${i * 25}deg)`,
-                  }}
+                  className={`absolute ${pos} text-6xl text-emerald-300/20 blur-[1px]`}
                 >
-                  ✦
-                </div>
-              ))}
-              {[...Array(6)].map((_, i) => (
-                <div
-                  key={i + 10}
-                  className="absolute text-teal-900/10 text-5xl md:text-7xl select-none"
-                  style={{
-                    bottom: `${i * 12}%`,
-                    right: `${i * 10}%`,
-                    transform: `rotate(${i * -20}deg)`,
-                  }}
-                >
-                  ❦
+                  ❧
                 </div>
               ))}
             </div>
