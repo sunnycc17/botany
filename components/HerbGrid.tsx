@@ -16,7 +16,7 @@ export default function HerbGrid({ herbs }: { herbs: HerbPreview[] }) {
         The Leaves Within
       </h2>
 
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-5">
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 sm:gap-5">
         {herbs.map((herb) => (
           <Link
             key={herb.id}
@@ -26,7 +26,7 @@ export default function HerbGrid({ herbs }: { herbs: HerbPreview[] }) {
             <Image
               src={herb.image}
               alt={herb.name}
-              width={300}
+              width={100}
               height={300}
               className="h-80 w-full object-cover opacity-80 group-hover:opacity-100 transition"
             />
