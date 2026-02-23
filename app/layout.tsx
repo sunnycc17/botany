@@ -27,7 +27,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${cinzel.variable} ${cormorant.variable}  bg-background antialiased`}
+        className={`${cinzel.variable} ${cormorant.variable}  bg-background antialiased `}
       >
         {children}
       </body>

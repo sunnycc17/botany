@@ -11,12 +11,12 @@ type HerbPreview = {
 
 export default function HerbGrid({ herbs }: { herbs: HerbPreview[] }) {
   return (
-    <section id="the-leaves-within" className="mx-auto max-w-7xl px-6 py-32">
+    <section id="the-leaves-within" className="mx-auto max-w-7xl py-32">
       <h2 className="mb-12 font-cinzel text-5xl text-teal-200/80">
         The Leaves Within
       </h2>
 
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-6">
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-5">
         {herbs.map((herb) => (
           <Link
             key={herb.id}

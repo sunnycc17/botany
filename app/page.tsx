@@ -7,14 +7,13 @@ export default function Home() {
   return (
     <div className="relative">
       <main className="">
-        <div className="relative min-h-screen overflow-hidden bg-linear-to-b from-[#050f0e] via-[#0a1f1c] to-black/20">
+        <div className="relative min-h-screen mx-auto px-6 md:px-11 sm:px-8 lg:px-14 xl:px-0 overflow-hidden bg-linear-to-b from-[#050f0e] via-[#0a1f1c] to-black/20">
           {/* low mist */}
           <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(90,180,150,0.14),transparent_65%)]" />
 
-          <main
+          <div
             className="
               relative z-10 mx-auto max-w-7xl
-              px-4 sm:px-6 md:px-8
               pt-28 sm:pt-32 md:pt-40
               pb-20 sm:pb-24
               flex flex-col md:flex-row
@@ -57,10 +56,10 @@ export default function Home() {
                 Angelica
               </p>
             </div>
-          </main>
+          </div>
 
           <section id="origins">
-            <div className="max-w-7xl py-40 px-4 sm:px-15 lg:px-38 text-start items-start space-y-8">
+            <div className="max-w-7xl py-40 mx-auto text-start items-start space-y-8">
               <h2 className="font-cinzel text-4xl sm:text-5xl md:text-6xl text-teal-200/80 drop-shadow-[0_0_15px_rgba(120,220,190,0.4)]">
                 Origins
               </h2>
@@ -82,14 +81,14 @@ export default function Home() {
 
           <HerbGrid herbs={herbs} />
 
-          <section className="relative w-full py-32 overflow-hidden ">
+          <section className="relative mx-auto max-w-7xl py-32 overflow-hidden ">
             {/* Arcane symbols along the edges */}
             <div className="absolute inset-0 pointer-events-none">
               {[
-                "top-6 left-6",
-                "top-6 right-6",
-                "bottom-6 left-6",
-                "bottom-6 right-6",
+                "top-1 left-0",
+                "top-1 right-0",
+                "bottom-1 left-0",
+                "bottom-1 right-0",
               ].map((pos, i) => (
                 <div
                   key={i}
